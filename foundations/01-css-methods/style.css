@@ -1,0 +1,10 @@
+/* style.css */
+
+div {
+    color: aliceblue;
+    background-color:red;
+    font-family: "Times New Roman", sans serif;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 700;
+}
